@@ -3,7 +3,8 @@
 
 User experience is paramount to me. I strive to create user-friendly interfaces that enable users to navigate my websites effortlessly and access desired information. Therefore, I value user feedback and continuously work on improving my websites.
 
-As a front-end developer, I prioritize staying up to date with technological trends and continuously honing my skills. Learning new languages and tools is an exciting adventure for me. Staying current in the web world and mastering new technologies allows me to provide the best experience to my clients and users.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
+As a front-end developer, I prioritize staying up to date with technological trends and continuously honing my skills. Learning new languages and tools is an exciting adventure for me. Staying current in the web world and mastering new technologies allows me to provide the best experience to my clients and users.<br>
+👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
 
 
 ## 🌐 Socials:

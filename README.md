@@ -44,7 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Boris/Boris/output/snake.svg" alt="Snake animation" />
 
 ###
 
